@@ -37,7 +37,7 @@ And I didn't want to go to college either because I already gave up on high scho
 
 I found many articles and online courses to guide me through the path to become a software developer.
 
-*I was surprised to see those courses and articles that could teach me to become a software developer cause I never saw anything like that. 😮😮*
+*I was surprised to see those courses and articles that could teach me to become a software developer cause I never saw anything like that before. 😮😮*
 
 I saw many people in youtube videos. They were all learning to code on their own and getting a job at the top tech companies.
 
