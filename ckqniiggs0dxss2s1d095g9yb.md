@@ -67,7 +67,7 @@ I also read some books on the python language and solved problems given in those
 
 ## 🕑🕑 A couple of months passed. While I was learning python, I came across hacking.
 
-I found hacking to be more fun and interesting. I watched some youtube videos on hacking and top hackers. Before I knew it, I was already into hacking. So, I started learning some ethical hacking. 
+I found hacking to be more fun and interesting, and I started watching youtube videos on hacking and top hackers. I was continuously watching hacking videos and reading articles, and Before I knew it, I was already into hacking. So, I started searching for ethical hacking courses and began learning. 
 
 Later, I realized that you should have expertise with UNIX-like OS, networking, scripting, programming language, databases, and web technologies to be a hacker.
 
