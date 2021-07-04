@@ -1,4 +1,4 @@
-## Journey for our Personal Growth, Web Development, and Digital Marketing (My first blog)
+## Journey for Personal Growth, Web Development, and Digital Marketing
 
 I said our journey. Because I want to go through this journey with you and leave these footsteps for the upcoming generation who wants to grow as we do.
 
