@@ -1,4 +1,4 @@
-## What is SSH | Why it is useful | How to setup SSH keys for github and bitbucket
+## What is SSH | Why it is useful | How to setup SSH keys on GitHub and Bitbucket
 
 Usually, working on our project, we clone our repository using **HTTPS**. Something like this,
 ```
