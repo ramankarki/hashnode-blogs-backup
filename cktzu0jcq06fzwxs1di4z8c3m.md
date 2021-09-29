@@ -136,6 +136,8 @@ raman@raman-Inspiron-15-3552:~/portfolio$
 - Go to your **Bitbucket settings page** and move to [**SSH keys tab**](https://bitbucket.org/account/settings/ssh-keys/).
 - Add your public **SSH** key like you did on GitHub and clone your repository using **SSH**.
 
+---
+
 So, that's it on this topic. Hope you fixed your problem. 
 
 Let me know if I missed something.
