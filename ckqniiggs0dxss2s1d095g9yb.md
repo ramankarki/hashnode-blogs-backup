@@ -1,4 +1,4 @@
-## Journey for Personal Growth, Web Development, and Digital Marketing
+## Journey to be a Professional Web Developer and Technical Content Writer
 
 I said our journey. Because I want to go through this journey with you and leave these footsteps for the upcoming generation who wants to grow as we do.
 
