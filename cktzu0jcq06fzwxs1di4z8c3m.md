@@ -136,6 +136,42 @@ raman@raman-Inspiron-15-3552:~/portfolio$
 - Go to your **Bitbucket settings page** and move to [**SSH keys tab**](https://bitbucket.org/account/settings/ssh-keys/).
 - Add your public **SSH** key like you did on GitHub and clone your repository using **SSH**.
 
+## Common problems ⛔
+
+There are some common problems that we see while using **SSH** and here is one.
+
+```
+The authenticity of host 'github.com (20.205.243.166)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+It prevents you from performing any action with **GitHub** thinking that you might be the intruder. The simple solution for this is to make a **SSH key scanning** manually. Something like this,
+
+```bash
+ssh-keyscan github.com >> ~/.ssh/known_hosts
+```
+
+This will do some testing for **SSH Authentication**. And after that, you will be able to perform any action with GitHub normally. Now, try pushing your code on GitHub and you should see some logs on your terminal.
+
+```bash
+Warning: Permanently added the RSA host key for IP address '20.205.243.166' to the list of known hosts.
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 505 bytes | 505.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:ramankarki/easy-stationary.git
+   008b49f..e3b941c  main -> main
+```
+
 ---
 
 So, that's it on this topic. Hope you fixed your problem. 
